@@ -19,7 +19,6 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15.1"
   gem "webrick", "~> 1.7"
   gem "jekyll-seo-tag", "~> 	2.8.0"
-  gem "jekyll-remote-theme", "~> 0.4.3"
   gem "jekyll-coffeescript", "~> 1.1.1"
   gem "jekyll-commonmark-ghpages", "~> 0.4.0"
   gem "jekyll-gist", "~> 1.5.0"

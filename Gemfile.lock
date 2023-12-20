@@ -247,19 +247,6 @@ GEM
       activesupport (>= 3.0.0)
     minitest (5.20.0)
     mutex_m (0.2.0)
-    nokogiri (1.15.5)
-      mini_portile2 (~> 2.8.2)
-      racc (~> 1.4)
-    nokogiri (1.15.5-aarch64-linux)
-      racc (~> 1.4)
-    nokogiri (1.15.5-arm-linux)
-      racc (~> 1.4)
-    nokogiri (1.15.5-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.15.5-x86-linux)
-      racc (~> 1.4)
-    nokogiri (1.15.5-x86_64-darwin)
-      racc (~> 1.4)
     nokogiri (1.15.5-x86_64-linux)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -312,12 +299,6 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  aarch64-linux
-  arm-linux
-  arm64-darwin
-  ruby
-  x86-linux
-  x86_64-darwin
   x86_64-linux
 
 DEPENDENCIES
@@ -340,4 +321,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.5.1
+   2.2.22

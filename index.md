@@ -65,6 +65,7 @@ Research talks & scientific outreach:
 - Iegor @ [ENERDAY Conference](https://drive.google.com/file/d/1_1KRkvJ80OFw78b3pR7mNfqb_SIZz7-u/), 05 May 2023
 - Iegor @ [LFE summit Paris](https://www.youtube.com/watch?v=yCILZ7Fe--g), panel discussion (video), 01 June 2023
 - Iegor @ [Eurelectric 24/7 CFE Hub](https://drive.google.com/file/d/1MuAU3fNP0azio_lSSm5yrkmjhyD2X3YH/view?usp=sharing), 26 October 2023
+- Iegor @ [DTU CoolData project final workshop](https://iriepin.com/uploads/CoolDataWorkshop_20240220.pdf), 20 February 2024
 
 Researh papers: 
 - Working paper in progress.

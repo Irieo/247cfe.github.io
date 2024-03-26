@@ -68,12 +68,14 @@ Research talks & scientific outreach:
 - Iegor @ [DTU CoolData project final workshop](https://iriepin.com/uploads/CoolDataWorkshop_20240220.pdf), 20 February 2024
 
 Researh papers: 
-- Working paper in progress.
 
+- [Working paper](https://zenodo.org/records/10869649): Spatio-temporal load shifting for truly clean computing
+- [Code to reproduce the paper](https://github.com/Irieo/space-time-optimization)
+- Journal version in review.
 
 ### Package 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
 
-Work in progress. We aim for end Q1 2024.
+Work in progress. We aim for Q2 2024.
 
 
 ## Impressum

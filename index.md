@@ -70,6 +70,7 @@ Research talks & scientific outreach:
 Researh papers: 
 
 - [Working paper](https://zenodo.org/records/10869649): Spatio-temporal load shifting for truly clean computing
+- [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7178318557603143680/)
 - [Code to reproduce the paper](https://github.com/Irieo/space-time-optimization)
 - Journal version in review.
 

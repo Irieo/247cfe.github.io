@@ -35,8 +35,8 @@ Media & public outreach:
 Research talks & scientific outreach:
 
 - Tom @ [Eurelectric Power Summit](https://nworbmot.org/energy/brown-eurelectric.pdf), 15 June 2022
-- Iegor @ [EWI research seminars](https://www.dropbox.com/s/gigfxo8dbe1e3ge/IRiepin_EWI_247CFE_22112022.pdf?dl=0), 22 November 2022
-- Iegor @ [European Climate and Energy Modelling Platform](https://drive.google.com/file/d/1h6hWTuE9RbsfVprHrJEGsC-qWsbR5lZ3/view?usp=sharing), 05 October 2022
+- Iegor @ [EWI research seminars](https://iriepin.com/uploads/EWI_247CFE_22112022.pdf), 22 November 2022
+- Iegor @ [European Climate and Energy Modelling Platform](https://iriepin.com/uploads/ecemp_20221005.pdf), 05 October 2022
 
 Researh papers: 
 
@@ -62,9 +62,9 @@ Media & public outreach:
 
 Research talks & scientific outreach:
 
-- Iegor @ [ENERDAY Conference](https://drive.google.com/file/d/1_1KRkvJ80OFw78b3pR7mNfqb_SIZz7-u/), 05 May 2023
+- Iegor @ [ENERDAY Conference](https://iriepin.com/uploads/enerday_20230518.pdf), 05 May 2023
 - Iegor @ [LFE summit Paris](https://www.youtube.com/watch?v=yCILZ7Fe--g), panel discussion (video), 01 June 2023
-- Iegor @ [Eurelectric 24/7 CFE Hub](https://drive.google.com/file/d/1MuAU3fNP0azio_lSSm5yrkmjhyD2X3YH/view?usp=sharing), 26 October 2023
+- Iegor @ [Eurelectric 24/7 CFE Hub](https://iriepin.com/uploads/247Hubtalk_20231026.pdf), 26 October 2023
 - Iegor @ [DTU CoolData project final workshop](https://iriepin.com/uploads/CoolDataWorkshop_20240220.pdf), 20 February 2024
 
 Researh papers: 
@@ -77,6 +77,9 @@ Researh papers:
 ### Package 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
 
 Work in progress. We aim for Q2 2024.
+
+
+- Iegor @ [Eurelectric 24/7 CFE Hub](https://iriepin.com/talk/on-the-role-of-24/7-cfe-in-accelerating-advanced-clean-electricity-technologies/), 21 May 2024
 
 
 ## Impressum

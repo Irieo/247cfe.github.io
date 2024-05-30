@@ -13,16 +13,16 @@ gem "minima", "~> 2.5.1"
 gem "minimal"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "github-pages", "~> 231", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15.1"
+  gem "jekyll-feed", "~> 0.17.0"
   gem "webrick", "~> 1.7"
   gem "jekyll-seo-tag", "~> 	2.8.0"
-  gem "jekyll-coffeescript", "~> 1.1.1"
+  gem "jekyll-coffeescript", "~> 1.2.2"
   gem "jekyll-commonmark-ghpages", "~> 0.4.0"
   gem "jekyll-gist", "~> 1.5.0"
-  gem "jekyll-github-metadata", "~> 2.13.0"
+  gem "jekyll-github-metadata", "~> 2.16.1"
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-relative-links", "~> 0.6.1"
   gem "jekyll-optional-front-matter", "~> 0.3.2"

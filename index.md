@@ -42,7 +42,7 @@ Researh papers:
 
 - [Working paper](https://zenodo.org/records/10407830): On the means, costs, and system-level impacts of 24/7 carbon-free energy procurement, Zenodo, 19 December 2023
 - [Code to reproduce the paper](https://github.com/Irieo/247-procurement-paper)
-- Journal version in review.
+- [Journal version](https://doi.org/10.1016/j.esr.2024.101488), Energy Strategy Reviews, July 2024 
 
 
 ### Package 2: The value of space-time load-shifting flexibility for 24/7 CFE procurement
@@ -72,15 +72,13 @@ Researh papers:
 - [Working paper](https://zenodo.org/records/10869649): Spatio-temporal load shifting for truly clean computing
 - [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7178318557603143680/)
 - [Code to reproduce the paper](https://github.com/Irieo/space-time-optimization)
-- Journal version in review.
 
 ### Package 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
 
-Work in progress. We aim for Q2 2024.
-
+Companies and governments committing to 24/7 clean energy matching are spurring early learning-by-doing in long-duration storage, geothermal and other innovative technologies that will benefit the whole system in the long run. We analyse the dynamic and show that indirect effects unlock greenhouse gas savings far beyond the direct emission reduction of initial investments.
 
 - Iegor @ [Eurelectric 24/7 CFE Hub](https://iriepin.com/talk/on-the-role-of-24/7-cfe-in-accelerating-advanced-clean-electricity-technologies/), 21 May 2024
-
+- [Journal paper](), in review.
 
 ## Impressum
 

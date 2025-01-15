@@ -40,10 +40,9 @@ Research talks & scientific outreach:
 
 Researh papers: 
 
-- [Working paper](https://zenodo.org/records/10407830): On the means, costs, and system-level impacts of 24/7 carbon-free energy procurement, Zenodo, 19 December 2023
+- [Journal paper](https://doi.org/10.1016/j.esr.2024.101488): On the means, costs, and system-level impacts of 24/7 carbon-free energy procurement, Energy Strategy Reviews, July 2024 
+- [Working paper](https://zenodo.org/records/10407830): December 2023
 - [Code to reproduce the paper](https://github.com/Irieo/247-procurement-paper)
-- [Journal version](https://doi.org/10.1016/j.esr.2024.101488), Energy Strategy Reviews, July 2024 
-
 
 ### Package 2: The value of space-time load-shifting flexibility for 24/7 CFE procurement
 
@@ -58,7 +57,8 @@ Media & public outreach:
 
 - [Twitter thread](https://twitter.com/nworbmot/status/1684498432977670148)
 - [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7090365044823076864/)
-- [Environment Variables Podcast](https://podcast.greensoftware.foundation/e/1n2jvv3n-the-week-in-green-software-modeling-carbon-aware-software), Episode 50: Modeling Carbon Aware Software, 23 November 2023
+- Iegor @ [Environment Variables Podcast](https://podcast.greensoftware.foundation/e/1n2jvv3n-the-week-in-green-software-modeling-carbon-aware-software), Episode 50: Modeling Carbon Aware Software, 23 November 2023
+- Iegor @ [“Connecting Energies” – a training series for European civil society](https://youtu.be/MCaZCWfPtk8?t=2193), Youtube recording, 6 December 2024
 
 Research talks & scientific outreach:
 
@@ -69,16 +69,18 @@ Research talks & scientific outreach:
 
 Researh papers: 
 
-- [Working paper](https://zenodo.org/records/10869649): Spatio-temporal load shifting for truly clean computing
+- [Journal paper](https://doi.org/10.1016/j.adapen.2024.100202): Spatio-temporal load shifting for truly clean computing, Advances in Applied Energy, January 2025
+- [Working paper](https://zenodo.org/records/10869649): arXiv preprint, March 2024
 - [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7178318557603143680/)
+- [BlueSky thread](https://bsky.app/profile/iriepin.bsky.social/post/3lfmyzekjlc2p)
 - [Code to reproduce the paper](https://github.com/Irieo/space-time-optimization)
 
 ### Package 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
 
-Companies and governments committing to 24/7 clean energy matching are spurring early learning-by-doing in long-duration storage, geothermal and other innovative technologies that will benefit the whole system in the long run. We analyse the dynamic and show that indirect effects unlock greenhouse gas savings far beyond the direct emission reduction of initial investments.
+Companies and governments committing to 24/7 CFE procurement are driving early adoption and learning-by-doing in long-duration storage, geothermal, and other advanced technologies. In this work, we show how these efforts create a virtuous cycle of cost reductions and system-wide benefits, unlocking greater greenhouse gas savings than the direct emissions reductions from initial investments. We also illustrate how proactive contributions from private sector can complement governmental support, ease pressure on tight fiscal budgets, and accelerate the decarbonization of electricity systems.
 
 - Iegor @ [Eurelectric 24/7 CFE Hub](https://iriepin.com/talk/on-the-role-of-24/7-cfe-in-accelerating-advanced-clean-electricity-technologies/), 21 May 2024
-- [Journal paper](), in review.
+- [Journal paper](), Accepted for publication in Joule, to be in press in January 2025
 
 ## Impressum
 

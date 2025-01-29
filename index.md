@@ -79,8 +79,19 @@ Researh papers:
 
 Companies and governments committing to 24/7 CFE procurement are driving early adoption and learning-by-doing in long-duration storage, geothermal, and other advanced technologies. In this work, we show how these efforts create a virtuous cycle of cost reductions and system-wide benefits, unlocking greater greenhouse gas savings than the direct emissions reductions from initial investments. We also illustrate how proactive contributions from private sector can complement governmental support, ease pressure on tight fiscal budgets, and accelerate the decarbonization of electricity systems.
 
-- Iegor @ [Eurelectric 24/7 CFE Hub](https://iriepin.com/talk/on-the-role-of-24/7-cfe-in-accelerating-advanced-clean-electricity-technologies/), 21 May 2024
-- [Journal paper](), Accepted for publication in Joule, to be in press in January 2025
+Researh papers: 
+
+- [Journal paper](https://doi.org/10.1016/j.joule.2024.101808), 24/7 carbon-free electricity matching accelerates adoption of advanced clean energy technologies, Joule, January 2025
+- [Open code](https://github.com/PyPSA/247-cfe/) to reproduce the simulations
+
+Media & public outreach:
+
+- Iegor @ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7290370841802932226/)
+- Tom @ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7290373506465234944/)
+- Devon @ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7290042385256914944/)
+- Iegor @ [BlueSky](https://bsky.app/profile/did:plc:jtxeeq5wsw75cogorp623fup/post/3lgv6dgnzlc2f)
+- Tom @ [BlueSky](https://bsky.app/profile/nworbmot.bsky.social/post/3lgvb4drwu22e)
+
 
 ## Impressum
 

@@ -96,7 +96,7 @@ Media & public outreach:
 - Iegor @ [BlueSky](https://bsky.app/profile/did:plc:jtxeeq5wsw75cogorp623fup/post/3lgv6dgnzlc2f)
 - Tom @ [BlueSky](https://bsky.app/profile/nworbmot.bsky.social/post/3lgvb4drwu22e)
 - Press release @ [TUB](https://www.tu.berlin/news/pressemitteilung/24-7-oekostrom-ansatz-treibt-innovationen-an)
-- Google press release @ [Google](https://www.linkedin.com/feed/update/urn:li:activity:7295805817042141185/)
+- Google press release @ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295805817042141185/)
 
 - Op-ed @ [Latitude Media](https://www.latitudemedia.com/news/how-24-7-carbon-free-energy-can-catalyze-clean-energy-innovation/): How 24/7 carbon-free energy can catalyze clean energy innovation, 28 February 2025
 - Our results depicted in [Forbes](https://www.forbes.com/sites/johnkostyack/2025/03/04/businesses-and-investors-must-confront-new-federal-climate-edicts/): Businesses And Investors Must Confront New Federal Climate Edicts, 04 March 2025

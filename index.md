@@ -41,7 +41,7 @@ Research talks & scientific outreach:
 Researh papers: 
 
 - [Journal paper](https://doi.org/10.1016/j.esr.2024.101488): On the means, costs, and system-level impacts of 24/7 carbon-free energy procurement, Energy Strategy Reviews, July 2024 
-- [Working paper](https://zenodo.org/records/10407830): December 2023
+- [Working paper](https://zenodo.org/records/10407830), December 2023
 - [Code to reproduce the paper](https://github.com/Irieo/247-procurement-paper)
 
 ### Package 2: The value of space-time load-shifting flexibility for 24/7 CFE procurement
@@ -71,9 +71,13 @@ Researh papers:
 
 - [Journal paper](https://doi.org/10.1016/j.adapen.2024.100202): Spatio-temporal load shifting for truly clean computing, Advances in Applied Energy, January 2025
 - [Working paper](https://zenodo.org/records/10869649): arXiv preprint, March 2024
+- [Code to reproduce the paper](https://github.com/Irieo/space-time-optimization)
+
+Media & public outreach:
+- [Bruegel First Glance](https://www.bruegel.org/first-glance/how-data-centres-can-chase-renewable-energy-across-europe): How data centres can chase renewable energy across Europe, 20 February 2025
 - [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7178318557603143680/)
 - [BlueSky thread](https://bsky.app/profile/iriepin.bsky.social/post/3lfmyzekjlc2p)
-- [Code to reproduce the paper](https://github.com/Irieo/space-time-optimization)
+
 
 ### Package 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
 
@@ -91,7 +95,11 @@ Media & public outreach:
 - Devon @ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7290042385256914944/)
 - Iegor @ [BlueSky](https://bsky.app/profile/did:plc:jtxeeq5wsw75cogorp623fup/post/3lgv6dgnzlc2f)
 - Tom @ [BlueSky](https://bsky.app/profile/nworbmot.bsky.social/post/3lgvb4drwu22e)
+- Press release @ [TUB](https://www.tu.berlin/news/pressemitteilung/24-7-oekostrom-ansatz-treibt-innovationen-an)
+- Google press release @ [Google](https://www.linkedin.com/feed/update/urn:li:activity:7295805817042141185/)
 
+- Op-ed @ [Latitude Media](https://www.latitudemedia.com/news/how-24-7-carbon-free-energy-can-catalyze-clean-energy-innovation/): How 24/7 carbon-free energy can catalyze clean energy innovation, 28 February 2025
+- Our results depicted in [Forbes](https://www.forbes.com/sites/johnkostyack/2025/03/04/businesses-and-investors-must-confront-new-federal-climate-edicts/): Businesses And Investors Must Confront New Federal Climate Edicts, 04 March 2025
 
 ## Impressum
 

@@ -57,7 +57,7 @@ Media & public outreach:
 
 - [Twitter thread](https://twitter.com/nworbmot/status/1684498432977670148)
 - [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7090365044823076864/)
-- Iegor @ [Environment Variables Podcast](https://podcast.greensoftware.foundation/e/1n2jvv3n-the-week-in-green-software-modeling-carbon-aware-software), Episode 50: Modeling Carbon Aware Software, 23 November 2023
+- Iegor @ [Environment Variables Podcast](https://podcasts.castplus.fm/e/1n2jvv3n-the-week-in-green-software-modeling-carbon-aware-software), Episode 50: Modeling Carbon Aware Software, 23 November 2023
 - Iegor @ [“Connecting Energies” – a training series for European civil society](https://youtu.be/MCaZCWfPtk8?t=2193), Youtube recording, 6 December 2024
 
 Research talks & scientific outreach:

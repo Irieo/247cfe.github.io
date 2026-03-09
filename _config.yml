@@ -22,8 +22,7 @@ title: Toward 24/7 CFE
 # email: your-email@example.com
 logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a research cooperation between TU Berlin and Google. 
-  All project deliverables are open source and available on GitHub.
+  This is a research cooperation between TU Berlin and Google completed in 2022-2024. All project deliverables are published in Q1 journal papers. All scientific workflows to reproduce the papers are available on GitHub with open licenses.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://irieo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

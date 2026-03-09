@@ -10,14 +10,14 @@ layout: default
 
 The climate change problem drives a global effort to rapidly decarbonise electricity systems across the globe. Many public and private energy buyers join this effort and highlight their sustainable credentials by procuring renewable energy through Power Purchase Agreements (PPAs). PPAs typically allow for renewable energy to match supply and demand on average over a long period of time. A growing number of public and private energy buyers are interested in 24/7 carbon-free energy (CFE) matching, which means that every kilowatt-hour of electricity consumption is met by carbon-free sources at all times.
 
-We use energy system modeling to investigate the means, costs, and system-level impacts of 24/7 carbon-free energy matching. There are three working packages in the project, each of which looks at a specific aspect in depth. Working package 1 examines the costs and means of pursuing different clean electricity procurement strategies in the European context. Additionally, we examine how the 24/7 clean energy matching affects the rest of the European electricity system. The aim of working package 2 is to analyze the role of space-time load shifting in reducing the resources and costs of 24/7 CFE matching; we also explore the signals companies can use to shape their load. Working package 3 examines the role of 24/7 CFE in accelerating advanced clean energy technologies.
+We use energy system modeling to investigate the means, costs, and system-level impacts of 24/7 carbon-free energy matching. There are three topics in the project, each of which looks at a specific aspect in depth. Topic 1 examines the costs and means of pursuing different clean electricity procurement strategies in the European context. Additionally, we examine how the 24/7 clean energy matching affects the rest of the European electricity system. The aim of topic 2 is to analyze the role of space-time load shifting in reducing the resources and costs of 24/7 CFE matching; we also explore the signals companies can use to shape their load. Topic 3 examines the role of 24/7 CFE in accelerating advanced clean energy technologies.
 
 This project is done in a spirit of open and reproducible research. We use only publicly available input data. The whole scientific workflow from the raw input data to optimized electricity system, visualizations and compilation of individual studies is available at [GitHub](https://github.com/PyPSA/247-cfe).
 
 
-## Working packages
+## Topics
 
-### Package 1: System-level impacts of 24/7 CFE procurement in Europe
+### Topic 1: System-level impacts of 24/7 CFE procurement in Europe
 
 In this study, we investigate both the means and costs of pursuing different clean electricity procurement strategies for companies in a selection of European countries. We also explore how the 24/7 clean energy procurement affects the rest of the European electricity system.
 
@@ -44,7 +44,7 @@ Researh papers:
 - [Working paper](https://zenodo.org/records/10407830), December 2023
 - [Code to reproduce the paper](https://github.com/Irieo/247-procurement-paper)
 
-### Package 2: The value of space-time load-shifting flexibility for 24/7 CFE procurement
+### Topic 2: The value of space-time load-shifting flexibility for 24/7 CFE procurement
 
 In this study, we explore how and why space-time load-shifting flexibility can be used to meet high 24/7 carbon-free energy targets, as well as what potential benefits it may offer to 24/7 participants and to the rest of the energy system. To answer these questions, we expand the mathematical model of 24/7 CFE procurement developed in the previous work by incorporating spatial and temporal demand flexibility provided by electricity consumers that follow 24/7 carbon-free energy goals. The space-time flexibility is based on the example of data centers; the findings related to temporal flexibility are generally applicable to a wide range of companies with flexible demand.
 
@@ -79,7 +79,7 @@ Media & public outreach:
 - [BlueSky thread](https://bsky.app/profile/iriepin.bsky.social/post/3lfmyzekjlc2p)
 
 
-### Package 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
+### Topic 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
 
 Companies and governments committing to 24/7 CFE procurement are driving early adoption and learning-by-doing in long-duration storage, geothermal, and other advanced technologies. In this work, we show how these efforts create a virtuous cycle of cost reductions and system-wide benefits, unlocking greater greenhouse gas savings than the direct emissions reductions from initial investments. We also illustrate how proactive contributions from private sector can complement governmental support, ease pressure on tight fiscal budgets, and accelerate the decarbonization of electricity systems.
 

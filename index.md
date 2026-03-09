@@ -77,6 +77,7 @@ Media & public outreach:
 - [Bruegel First Glance](https://www.bruegel.org/first-glance/how-data-centres-can-chase-renewable-energy-across-europe): How data centres can chase renewable energy across Europe, 20 February 2025
 - [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7178318557603143680/)
 - [BlueSky thread](https://bsky.app/profile/iriepin.bsky.social/post/3lfmyzekjlc2p)
+- [pv-magazine](https://www.linkedin.com/feed/update/urn:li:activity:7436747864669790210/): Every second counts, 6 March 2026
 
 
 ### Topic 3: On the role of 24/7 CFE in accelerating advanced clean energy technologies.
@@ -98,8 +99,9 @@ Media & public outreach:
 - Press release @ [TUB](https://www.tu.berlin/news/pressemitteilung/24-7-oekostrom-ansatz-treibt-innovationen-an)
 - Google press release @ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7295805817042141185/)
 
-- Op-ed @ [Latitude Media](https://www.latitudemedia.com/news/how-24-7-carbon-free-energy-can-catalyze-clean-energy-innovation/): How 24/7 carbon-free energy can catalyze clean energy innovation, 28 February 2025
+- Op-ed in [Latitude Media](https://www.latitudemedia.com/news/how-24-7-carbon-free-energy-can-catalyze-clean-energy-innovation/): How 24/7 carbon-free energy can catalyze clean energy innovation, 28 February 2025
 - Our results depicted in [Forbes](https://www.forbes.com/sites/johnkostyack/2025/03/04/businesses-and-investors-must-confront-new-federal-climate-edicts/): Businesses And Investors Must Confront New Federal Climate Edicts, 04 March 2025
+- Our results depicted in [pv-magazine](https://www.pv-magazine.com/2026/03/09/small-24-7-clean-power-commitments-could-cut-costs-for-long-duration-storage/): Small 24/7 clean power commitments could cut costs for long-duration storage, 9 March 2026
 
 ## Impressum
 

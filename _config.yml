@@ -26,6 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://irieo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: PyPSA/247-cfe
+project_repo_url: https://github.com/PyPSA/247-cfe
+project_repo_name: PyPSA/247-cfe
 
 # Build settings
 theme: jekyll-theme-minimal
